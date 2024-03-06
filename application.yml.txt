@@ -7,10 +7,10 @@ spring:
 
 	profiles: dev     #开发环境
 	application:
-	name: xin.com.git-dev
+	name: xin.com-dev
 ----
 spring:
 profiles: test #测试环境
 application:
-name: xin.com.git-test
+name: xin.com.test
 #请保存为UTF-8格式
